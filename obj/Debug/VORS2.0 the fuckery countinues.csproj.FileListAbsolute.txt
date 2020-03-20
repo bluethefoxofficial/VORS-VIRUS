@@ -1,0 +1,18 @@
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\bin\Debug\VORS2.0 the fuckery countinues.exe.config
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\bin\Debug\VORS2.0 the fuckery countinues.exe
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\bin\Debug\VORS2.0 the fuckery countinues.pdb
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2._0_the_fuckery_countinues.Form1.resources
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2._0_the_fuckery_countinues.Properties.Resources.resources
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.exe
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.pdb
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2._0_the_fuckery_countinues.msb.resources
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2._0_the_fuckery_countinues.vorsintroduction.resources
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2._0_the_fuckery_countinues.CREEPY.resources
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\Interop.Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\Interop.VSLangProj.dll
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\Interop.VSLangProj2.dll
+C:\Users\Owner\source\repos\VORS2.0 the fuckery countinues\obj\Debug\VORS2.0 the fuckery countinues.csproj.ResolveComReference.cache
